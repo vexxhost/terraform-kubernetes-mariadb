@@ -1,4 +1,4 @@
-module github.com/vexxhost/terraform-kuberentes-mariadb
+module github.com/vexxhost/terraform-kuberentes-mariadb/test
 
 go 1.20
 
