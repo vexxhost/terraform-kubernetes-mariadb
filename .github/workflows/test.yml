@@ -9,4 +9,4 @@ jobs:
   terratest:
     runs-on: ubuntu-latest
     steps:
-      - uses: cloudposse/github-action-terratest@main
+      - uses: cloudposse/github-action-terratest@22f9431d93c6e19097bdd0575c7ec35f4954092b # main
