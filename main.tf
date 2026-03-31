@@ -79,7 +79,7 @@ resource "kubernetes_stateful_set" "stateful_set" {
       spec {
         container {
           name  = "mariadb"
-          image = "mariadb:11"
+          image = "mariadb:12"
 
           env {
             name = "MYSQL_ROOT_PASSWORD"
